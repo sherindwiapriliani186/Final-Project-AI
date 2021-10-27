@@ -6,5 +6,5 @@ Kami kelompok dari kelas 5D beranggotakan :
 
 ## Dataset
 Kelompok kami mendapatkan dataset berupa :
-1. Daun Sirih
-2. Daun Jeruk Nipis
+1. Daun Sirih (50 foto)
+2. Daun Jeruk Nipis (50 foto)
